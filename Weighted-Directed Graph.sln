@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weighted-Directed Graph", "Weighted-Directed Graph\Weighted-Directed Graph.csproj", "{7F83FDC7-6037-4B8D-BB5B-F169009516D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathfindingVisualizer", "PathfindingVisualizer\PathfindingVisualizer.csproj", "{4F0ADA5A-837C-41D0-B881-3E1F8D7AAA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F83FDC7-6037-4B8D-BB5B-F169009516D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F83FDC7-6037-4B8D-BB5B-F169009516D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F83FDC7-6037-4B8D-BB5B-F169009516D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F83FDC7-6037-4B8D-BB5B-F169009516D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0ADA5A-837C-41D0-B881-3E1F8D7AAA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0ADA5A-837C-41D0-B881-3E1F8D7AAA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0ADA5A-837C-41D0-B881-3E1F8D7AAA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0ADA5A-837C-41D0-B881-3E1F8D7AAA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174E1645-242E-4F82-8BA1-B477D717CF3B}
+	EndGlobalSection
+EndGlobal
