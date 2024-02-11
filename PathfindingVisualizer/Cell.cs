@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 
 namespace PathfindingVisualizer
 {
-    using Point = System.Drawing.Point;
     internal class Cell
     {
         public Point position;

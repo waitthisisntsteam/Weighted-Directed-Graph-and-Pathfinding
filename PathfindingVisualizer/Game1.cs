@@ -11,7 +11,6 @@ using Weighted_Directed_Graph;
 
 namespace PathfindingVisualizer
 {
-    using Point = System.Drawing.Point;
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
