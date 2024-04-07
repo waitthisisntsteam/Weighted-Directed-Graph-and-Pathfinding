@@ -310,6 +310,11 @@ namespace Weighted_Directed_Graph
                 foreach (var n in currentVertex.Neighbors)
                 {
                     float tentativeDistance = currentVertex.distanceFromStart + n.Distance;
+                    
+                    if (n.Distance >= 10)
+                    {
+                        ;
+                    }
 
                     if (tentativeDistance < n.EndingPoint.distanceFromStart)
                     {
